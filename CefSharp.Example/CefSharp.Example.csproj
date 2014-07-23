@@ -101,7 +101,6 @@
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
@@ -120,6 +119,7 @@
     <Content Include="Resources\home.html" />
     <Content Include="Resources\PopupTest.html" />
     <Content Include="Resources\SchemeTest.html" />
+    <Content Include="Resources\Tests.html" />
     <Content Include="Resources\TooltipTest.html" />
   </ItemGroup>
   <ItemGroup>

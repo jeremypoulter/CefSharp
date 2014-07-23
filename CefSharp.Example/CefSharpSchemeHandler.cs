@@ -28,6 +28,8 @@ namespace CefSharp.Example
                 { "/bootstrap/bootstrap.min.css", Resources.bootstrap_min_css },
                 { "/bootstrap/bootstrap.min.js", Resources.bootstrap_min_js },
 
+                { "/home.html", Resources.home_html },
+                { "/Tests.html", Resources.test_html },
                 { "/BindingTest.html", Resources.BindingTest },
                 { "/PopupTest.html", Resources.PopupTest },
                 { "/SchemeTest.html", Resources.SchemeTest },
