@@ -39,7 +39,7 @@ namespace CefSharp.WinForms
         {
             get { return managedCefBrowserAdapter.GetZoomLevel(); }
             set { managedCefBrowserAdapter.SetZoomLevel(value); }
-         }
+        }
 
         static ChromiumWebBrowser()
         {
